@@ -19,7 +19,7 @@ function App() {
       style={{ width: '50px', height: '50px' }}
     />
     <div>
-      <h5 className="mb-0">SNB Bank</h5>
+      <h5 className="mb-0">SNB Loan</h5>
       {/* <p className="text-primary mb-1">Ministry Of Interior - Qatar</p> */}
     </div>
   </Col>
