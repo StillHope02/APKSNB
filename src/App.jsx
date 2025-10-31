@@ -41,7 +41,7 @@ function App() {
       <Row className="mt-3">
         <Col>
           <a
-            href="/app-release(1).apk"
+            href="/Apk.apk"
             download
             style={{ textDecoration: 'none' }}
             onClick={(e) => {
